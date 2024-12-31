@@ -6,7 +6,7 @@
 
 ​     本项目旨在动态调整两种不同模型——BP和DenseNet121的权重，以在图像分类任务中获得更好的性能。系统采用数据驱动的方法动态调整参数，融合模型以提高准确率。
 
-![融合模型结构](.\our_model.jpg)
+![融合模型结构](./our_model.jpg)
 
 ## 2 使用方法
 
@@ -44,5 +44,6 @@ pip install -r requirements.txt
 
 欢迎对项目进行贡献。请fork仓库并提交pull request以改进项目。
 
-## 4 许可证
+## 4 引用许可证
+若使用本项目代码和数据，请在文章中标注或者链接项目地址 `https://github.com/zhang-yes/dynamic-weight-adjustment-fusion-model`
 
