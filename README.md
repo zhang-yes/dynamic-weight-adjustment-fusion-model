@@ -15,8 +15,8 @@
 设置环境时，请克隆仓库并安装所需的依赖项：
 
 ```bash
-git clone https://github.com/yourusername/dynamic-weight-adjustment-fusionmodel.git
-cd dynamic-weight-adjustment-fusionmodel
+git clone https://github.com/yourusername/dynamic-weight-adjustment-fusion-model.git
+cd dynamic-weight-adjustment-fusion-model
 pip install -r requirements.txt
 ```
 
