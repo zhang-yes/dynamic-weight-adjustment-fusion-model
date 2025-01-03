@@ -40,10 +40,16 @@ pip install -r requirements.txt
 
 - `Outputimages` 文件夹包含了模型训练结束后的训练情况曲线图。
 
-## 3 贡献
+## 3 算法伪代码
+
+![image-20250103154854001](E:\dynamic-weight-adjustment-fusion-model\Algorithm.png)
+
+具体实现位于`dynamic_weights.py`和`our_model.py`文件
+
+## 4 贡献
 
 欢迎对项目进行贡献。请fork仓库并提交pull request以改进项目。
 
-## 4 引用许可证
+## 5 引用许可证
 若使用本项目代码和数据，请在文章中标注或者链接项目地址 `https://github.com/zhang-yes/dynamic-weight-adjustment-fusion-model`
 
