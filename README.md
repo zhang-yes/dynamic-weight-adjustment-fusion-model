@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ## 3 算法伪代码
 
-![image-20250103154854001](E:\dynamic-weight-adjustment-fusion-model\Algorithm.png)
+![image-20250103154854001](./Algorithm.png)
 
 具体实现位于`dynamic_weights.py`和`our_model.py`文件
 
